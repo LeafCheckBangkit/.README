@@ -4,7 +4,7 @@
 
 <p align="center" style="margin-bottom: 20px; line-height: 0.8;">
     <a href="https://docs.google.com/document/d/1HZ86oGm-dZBUOeCO-YSOwiyGG-2Rw0kE9ax7B33T3TM/edit">Project Plan</a> &middot;
-    <a href="https://docs.google.com/document/d/1ck3uwQDtufGLD0bzGk4JVhTJUi45Uxdv2rV4oAjMUTY/edit">Project Brief</a> &middot;
+    <a href="https://docs.google.com/document/d/1ck3uwQDtufGLD0bzGk4JVhTJUi45Uxdv2rV4oAjMUTY/edit?usp=sharing">Project Brief</a> &middot;
     <a href="https://www.canva.com/design/DAGINH9ExGk/LNi5NxWmvqcLB5xGvOyGQQ/edit">Presentation Slide</a> 
 </p>
 <p align="center" style="margin-top: -10px;">© C241-PS391 Bangkit Capstone Team</p>
